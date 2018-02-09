@@ -1,0 +1,11 @@
+{
+  "name":"ghTestChallenge",
+  "description":"This is to test creation of Github challenges",
+  "instruction":"This is a test instruction",
+  "difficulty":2,
+  "blurb":"This is a test blurb",
+  "enabled":true,
+  "featured":true,
+  "checkinComment":"Testing 1...2...3",
+  "tags":"testTag"
+}
